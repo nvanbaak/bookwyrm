@@ -4,7 +4,7 @@
 **Project Objectives**
 
 - Users will use Bookwyrm accounts to manage ongoing writing projects and solicit feedback from other users
-- Users will be able access their Bookwyrm data either through the Discord bot or the website
+- Users will be able to access their Bookwyrm data either through the Discord bot or the website
 - Users will spend credits earned by giving feedback to request feedback on their own projects
 
 ## Version Alpha: Discord Bot;
